@@ -69,8 +69,6 @@ src/
 ├── App.js
 └── index.js
 
-yaml
-Copy code
 
 This modular folder structure keeps **features isolated** and **scales easily** as the app grows.
 
